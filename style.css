@@ -25,7 +25,7 @@ img{
 }
 .head_top_nav{
 	list-style: none;
-	float: right;
+	float: left;
 	margin: 14px 0 16px;
 	padding: 0 35px 0 0;
 }
